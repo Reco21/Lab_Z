@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="981daa4c-2b87-433d-9989-a3c4ca072dd5" name="Default Changelist" comment="#1 Added Main">
+      <change afterPath="$PROJECT_DIR$/.idea/Lab_Z.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <list id="745ddd4d-1e61-42ec-8489-0c20308c15f4" name="#1 Added Main" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="newFeature" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dMH3iCbSStQbZOJRJKxEIs5lo2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.labZ.Main" />
+      <module name="Lab_Z" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="981daa4c-2b87-433d-9989-a3c4ca072dd5" name="Default Changelist" comment="" />
+      <changelist id="745ddd4d-1e61-42ec-8489-0c20308c15f4" name="#1 Added Main" comment="" />
+      <created>1592227844690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592227844690</updated>
+    </task>
+    <task id="LOCAL-00001" summary="#1 Added Main">
+      <created>1592228402272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592228402273</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#1 Added Main">
+      <created>1592228529447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592228529447</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#1 Added Main">
+      <created>1592228949689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592228949689</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#1 Added Main">
+      <created>1592230278858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592230278858</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#1 Added Main">
+      <created>1592230290659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592230290659</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#1 Added Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="#1 Added Main" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1331" y="386" width="561" height="464" key="#Notifications" timestamp="1592228764674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1331" y="386" width="561" height="464" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1592228764674" />
+    <state x="368" y="89" key="DiffContextDialog" timestamp="1592228698726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="89" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592228698726" />
+    <state x="1226" y="278" key="FileChooserDialogImpl" timestamp="1592228060543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1226" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592228060543" />
+    <state x="1293" y="438" key="VCS.ChangelistChooser" timestamp="1592228797924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1293" y="438" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592228797924" />
+    <state x="1038" y="256" key="Vcs.Push.Dialog.v2" timestamp="1592230301622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1038" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592230301622" />
+    <state x="1255" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592228723568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1255" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592228723568" />
+    <state x="1245" y="385" key="git4idea.rebase.GitRebaseDialog" timestamp="1592228012978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="385" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592228012978" />
+  </component>
+</project>
