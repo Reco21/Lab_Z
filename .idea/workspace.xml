@@ -26,13 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="981daa4c-2b87-433d-9989-a3c4ca072dd5" name="Default Changelist" comment="#1 Added Main">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab_Z.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="981daa4c-2b87-433d-9989-a3c4ca072dd5" name="Default Changelist" comment="#1 Added Main" />
     <list id="745ddd4d-1e61-42ec-8489-0c20308c15f4" name="#1 Added Main" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +154,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1226" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592228060543" />
+    <state x="1084" y="281" key="MultipleFileMergeDialog" timestamp="1592231373491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592231373491" />
     <state x="1293" y="438" key="VCS.ChangelistChooser" timestamp="1592228797924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
